@@ -11,7 +11,7 @@ There are 2 options for running the notebook...
 1. Run locally, using Jupyter Notebooks; this requires local installation of Jjupyter and the associated packages
 
 ```
-git clone https://github.com/chanzuckerberg/czid-amr-heatmap
+git clone https://github.com/chanzuckerberg/czid-amr-heatmap.git
 cd czid-amr-heatmap
 jupyter notebook  # will open a notebook server
 ```
