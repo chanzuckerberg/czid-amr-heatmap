@@ -8,7 +8,7 @@ The current CZ ID AMR pipeline does not include heatmap functionality. This repo
 The main functionality is Make_AMR_Heatmap.ipynb, which takes as input the CZ ID Combined AMR Report for a particular project (downloaded using [bulk download functionality](https://chanzuckerberg.zendesk.com/hc/en-us/articles/15312677287316-Download-AMR-Results-Data#download-project-page)) and generates a heatmap with the options for filtering that mimic that of the CZ ID heatmaps.
 
 There are 2 options for running the notebook...
-1. Run locally, using Jupyter Notebooks; this requires local installation of Jjupyter and the associated packages
+1. Run locally, using Jupyter Notebooks; this requires local installation of Jupyter and the associated packages
 
 ```
 git clone https://github.com/chanzuckerberg/czid-amr-heatmap.git
